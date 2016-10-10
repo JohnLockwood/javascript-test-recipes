@@ -1,0 +1,26 @@
+{
+  "name": "javascript_test_recipies",
+  "version": "0.0.1",
+  "description": "JavaScript Testing Recipies",
+  "main": "index.js",
+  "config": {
+    "recipie_name": "example"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo $npm_package_config_recipie_name",
+    "test_windows": "echo %npm_package_config_recipie_name%"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/JohnLockwood/test_recipies.git"
+  },
+  "author": "John Lockwood / CodeSolid Software Development",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/JohnLockwood/test_recipies/issues"
+  },
+  "homepage": "https://gitlab.com/JohnLockwood/test_recipies#README"
+}
