@@ -32,4 +32,4 @@ Of course when you multiply those two facile, "just add code" lists by each othe
 
 # Contributing
 
-At this point since we haven't gotten the ball rolling significantly by checking in our first complete recipies, so asking for a pull request would be presumptuous.  However, feel free to add 
+At this point since we haven't gotten the ball rolling significantly by checking in our first complete recipies, so asking for a pull request would be presumptuous.  However, feel free to add wishlist items to [Issue #1](https://github.com/CodeSolid/test_recipies/issues/1).
