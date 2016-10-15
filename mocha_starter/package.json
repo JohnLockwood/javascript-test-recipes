@@ -1,0 +1,14 @@
+{
+  "name": "mocha_demo",
+  "version": "1.0.0",
+  "description": "Server side unit tests only",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "devDependencies": {}
+}
