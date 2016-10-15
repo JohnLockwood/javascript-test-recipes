@@ -1,0 +1,28 @@
+{
+  "name": "ava_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --serial ",
+    "test:verbose": "ava --serial --verbose"
+  },
+  "author": "John Lockwood <John@CodeSolid.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "babel-cli": "^6.16.0",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0"
+  },
+  "ava": {
+    "files": [
+      "test/*.js",
+      "!**/not-this-file.js"
+    ],
+    "source": [
+      "**/*.{js,jsx}",
+      "!dist/**/*"
+    ]
+  }
+}

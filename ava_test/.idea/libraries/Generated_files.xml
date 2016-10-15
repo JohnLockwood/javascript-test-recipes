@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/.cache/ava/3809bce1937094bef20631f4d6466957-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/.cache/ava/4e2c11cdcea488d6c4be0e8f72c5ce7b-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/.cache/ava/fd9eb76936a08c18f5e058c34f867faa-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/test.es5-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/.cache/ava/0b7317c3ee76bb753e1b0846f602cff9-compiled.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/.cache/ava/c600b1f0e44077a039e5cbc23adfd848-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/test-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/test/test.es5-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/.cache/ava/3809bce1937094bef20631f4d6466957-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/.cache/ava/4e2c11cdcea488d6c4be0e8f72c5ce7b-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/.cache/ava/fd9eb76936a08c18f5e058c34f867faa-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/test.es5-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/.cache/ava/0b7317c3ee76bb753e1b0846f602cff9-compiled.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/.cache/ava/c600b1f0e44077a039e5cbc23adfd848-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/test-compiled.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

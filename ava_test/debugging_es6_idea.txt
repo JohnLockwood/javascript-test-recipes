@@ -1,0 +1,8 @@
+I had to:
+
+Install the plugin file watchers from community plugin site, it isn't enabled by default in Idea.  (C.f:  https://www.jetbrains.com/help/idea/2016.2/using-file-watchers.html)
+
+Then can go to File / Settings / Tools / File Watchers and select and add a babel file watcher.  Point it to the babel executable you installed using \npm install -g babel (oh yeah, do that too! :))
+
+
+npm install babel-preset-es2015 --save-dev
