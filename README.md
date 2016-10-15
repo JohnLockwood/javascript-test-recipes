@@ -5,7 +5,7 @@ will contain a recipe, often as an NPM package, along with documentation.  Depen
 on community feedback, we may break some of those out into git submodules. See [Additional Research Needed](docs/research_needed.md).
 
 ## What's here
-It's in the early stages, a starter file or two at this point.
+It's in the early stages, with the beginnings of two recipies about ava and mocha.
 
 ## Over time ...
 
