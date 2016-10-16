@@ -1,0 +1,25 @@
+{
+  "name": "webpack-es6",
+  "version": "1.0.0",
+  "description": "Starter file for building es6 with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "es6",
+    "webpack"
+  ],
+  "author": "John Lockwood <John@CodeSolid.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "webpack": "^1.13.2"
+  }
+}

@@ -15,7 +15,8 @@
     "expect": "^1.13.30",
     "mocha": "^3.1.2",
     "npm-run": "^4.1.0",
-    "npm-run-all": "^3.1.1"
+    "npm-run-all": "^3.1.1",
+    "ntypescript": "^1.201609302242.1"    
   },
   "devDependencies": {},
   "license": "MIT",
