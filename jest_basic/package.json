@@ -1,0 +1,20 @@
+{
+  "name": "jest_basic",
+  "version": "1.0.0",
+  "description": "A hello world level jest sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Jest",
+    "Hello",
+    "World",
+    "Jest"
+  ],
+  "author": "John Lockwood",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}

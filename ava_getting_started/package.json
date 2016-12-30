@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "ava --serial ",
+    "test": "node_modules/.bin/ava --serial ",
     "test:verbose": "ava --serial --verbose"
   },
   "author": "John Lockwood <John@CodeSolid.com>",
