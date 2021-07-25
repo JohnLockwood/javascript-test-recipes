@@ -1,8 +1,4 @@
-// import expect from 'expect';
-// See http://stackoverflow.com/questions/35812221/typescript-default-import-failing for 
-// the why of next two lines
-import * as _expect from 'expect';
-const expect = _expect as any as typeof _expect.default;
+const expect = require('expect')
 
 describe('Sample', () => {
     describe('#hello world test', () => {
